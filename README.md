@@ -1,5 +1,6 @@
 # Wine-Quality
-Red vs White
+Red Wine vs White Wine
+
 Code must be in Python 3 for this project
 
 Your project must utilize the dataset provided to your team
